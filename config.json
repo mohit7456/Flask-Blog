@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codingthunder",
+        "prod_uri": "mysql://root:@localhost/codingthunder",
+        "fb_url": "https://facebook.com/codingthunder",
+        "tw_url": "https://twitter.com/codingthunder",
+        "gh_url": "https://github.com/codingthunder",
+        "blog_name": "Coding Thunder",
+        "sub_heading": "A Blog liked by Programmers",
+        "gmail-id": "testworking460@gmail.com",
+        "gmail-password": "kiwd bvgr zxbx rbsp",
+        "about_text" : "Hi my name is mohit amd i am making gaming videos on youtube and i am a good boy.",
+        "no_of_posts": 2,
+        "admin_user": "Mohit",
+        "admin_password": "gehu_ka_katha",
+        "upload_location": "C:\\Users\\mohit\\OneDrive\\Desktop\\Flask Tutorial\\Basic\\static"
+    }
+}
